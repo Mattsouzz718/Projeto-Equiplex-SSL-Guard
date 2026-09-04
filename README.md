@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/CustomTkinter-Dark_Mode-212121?style=for-the-badge&logo=python&logoColor=blue" alt="CustomTkinter" />
-<img src="https://img.shields.io/badge/Status-Dev_Build-10B981?style=for-the-badge" alt="Status" />
+<img src="https://img.shields.io/badge/Status-versao_final-10B981?style=for-the-badge" alt="Status" />
 
 </div>
 
