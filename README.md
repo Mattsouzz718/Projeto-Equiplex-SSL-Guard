@@ -12,7 +12,7 @@
 
 <br />
 
-O **Projeto-Equiplex-SSL-Guard-dev-build** é uma aplicação desktop com interface gráfica focada no monitoramento do vencimento de certificados SSL de múltiplos domínios simultaneamente.
+O **Projeto-Equiplex-SSL-Guard** é uma aplicação desktop com interface gráfica focada no monitoramento do vencimento de certificados SSL de múltiplos domínios simultaneamente.
 
 ---
 
